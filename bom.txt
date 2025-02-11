@@ -1,6 +1,6 @@
 costs for 14 kits:
 az-delivery: 47 EUR
-berrybase: 236 EUR
+berrybase: 236 EUR + 8 EUR für 7 gruene LEDs LED5-G-LC
 ikea: 10 EUR
 rewe: 9 EUR
 

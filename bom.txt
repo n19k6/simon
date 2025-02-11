@@ -1,6 +1,6 @@
 costs for 14 kits:
 az-delivery: 47 EUR
-berrybase: 236 EUR
+berrybase: 236 EUR (https://www.berrybase.de/loadBasket/SYIPbKnaZRF)
 ikea: 10 EUR
 rewe: 9 EUR
 

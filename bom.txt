@@ -1,6 +1,6 @@
 costs for 14 kits:
 az-delivery: 47 EUR
-berrybase: 236 EUR (https://www.berrybase.de/loadBasket/SYIPbKnaZRF) + 8 EUR für 7 gruene LEDs LED5-G-LC
+berrybase: 236 EUR (https://www.berrybase.de/loadBasket/SYIPbKnaZRF) + 8 EUR fuer 7 gruene LEDs LED5-G-LC + 11 fuer KY-012 (achtung vielleicht auch passiver buzzer).
 ikea: 10 EUR
 rewe: 9 EUR
 

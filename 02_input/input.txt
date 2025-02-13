@@ -1,0 +1,56 @@
+https://youtu.be/UZdjoDpF99g
+
+Bzw. hier der Blogeintrag dazu:
+
+https://www.makerblog.at/2016/09/arduino-projekt-musikbox-mit-bond-theme/
+
+
+#include "SoftwareSerial.h"
+#include "DFRobotDFPlayerMini.h"
+
+int Receive = 3;
+int Transmit = 4;
+int ZustandVorher =0; //1 Hell 0 Dunkel
+int LichtSensor = A0;
+int Zustand_LichtSensor = 0;
+
+SoftwareSerial softwareSerial(Receive, Transmit);
+DFRobotDFPlayerMini mp3;
+
+void setup() {
+
+  Serial.begin(9600);
+  softwareSerial.begin(9600);
+
+
+  if (mp3.begin(softwareSerial)) {
+    Serial.println("OK");
+    // Lautstärke festlegen (0 bis 30).
+    mp3.volume(24);
+  } else {
+    Serial.println("Connecting to DFPlayer Mini failed!");
+  }
+}
+
+  void EsIstHell(){
+    ZustandVorher =1;
+    mp3.play(1);
+  }
+  void EsIstDunkel(){
+    ZustandVorher =0;
+    mp3.stop();
+  }
+
+void loop() {
+  Zustand_LichtSensor = analogRead(LichtSensor);
+ 
+  Serial.println(Zustand_LichtSensor);
+  delay(500);
+
+  if(Zustand_LichtSensor > 100 && ZustandVorher == 0){ 
+    EsIstHell();
+     }
+  if(Zustand_LichtSensor < 99 && ZustandVorher ==1){
+    EsIstDunkel();
+     }
+}

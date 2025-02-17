@@ -1,9 +1,6 @@
-done: 20250213
-amazon 40,46
-az-delivery 61,96
-berrybase 243,34
+parts:
+Mini MP3 Player (az-delivery, berrybase=DFR0299)
+Breadboard button (berrybase=KHTKIT-1)
+5526/5528 LDR photoresistor (berrybase=PGM5526)
+Speaker 0,5 W Ohm (berrybase=COM-15350)
 
-open:
-pin header pico 14*0,5 + delivery
-rewe 8,10
-ikea 0,7*14 = 9,8

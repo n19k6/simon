@@ -1,4 +1,5 @@
 parts:
+Pico 2 W
 Mini MP3 Player (az-delivery, berrybase=DFR0299)
 Breadboard button (berrybase=KHTKIT-1)
 5526/5528 LDR photoresistor (berrybase=PGM5526)

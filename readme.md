@@ -3,11 +3,11 @@ Musikbox
 - has two modes: dice and motivational quotes
 - three small videos are available in 30_video folder
   
-  [![phototransistor](/30_video/IMG_5499.png)](https://raw.githubusercontent.com/n19k6/simon/main/30_video/IMG_5499.mp4)
+  [![light](/30_video/IMG_5499.png)](https://raw.githubusercontent.com/n19k6/simon/main/30_video/IMG_5499.mp4)
 
-  [![phototransistor](/30_video/IMG_5500.png)](https://raw.githubusercontent.com/n19k6/simon/main/30_video/IMG_5500.mp4)
+  [![dice](/30_video/IMG_5500.png)](https://raw.githubusercontent.com/n19k6/simon/main/30_video/IMG_5500.mp4)
 
-  [![phototransistor](/30_video/IMG_5504.png)](https://raw.githubusercontent.com/n19k6/simon/main/30_video/IMG_5504.mp4)
+  [![motivation](/30_video/IMG_5503.png)](https://raw.githubusercontent.com/n19k6/simon/main/30_video/IMG_5503.mp4)
 
 - download mp3 for dice numbers 1,2,3,4,5,6 and quotes in mp3 format (e.g. https://ttsmp3.com/ai)
 - save files and store them on a micro sd card (rename files and directories according dfplayer mini conventions)

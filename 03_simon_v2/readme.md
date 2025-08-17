@@ -7,6 +7,7 @@ tools:
 - tape and card as buzzer amplifier
 - multimeter
 - powerbank and powersupply with microusb plug
+- wire cutter for resistors
 
 agenda:
 - show complete simon says game

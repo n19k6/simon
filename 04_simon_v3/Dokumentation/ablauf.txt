@@ -1,0 +1,28 @@
+Girls Day 2026
+- wir haben ein Projekt mitgebracht, vorstellen an meinem exemplar
+- in der box sind verschiedene sachen, schauen wir nach dem naechsten kapitel an
+Wokwi
+- zeigen vor Hardware-Ausgabe
+Micropython
+- Ausgabe Laptops, Firmware aufspielen Programme abtippen, Firmware auf beide Picos aufspielen
+- programm thonny erklaeren, hinweis auf bibliothek, abspeichern auf raspberry pico
+- Laptop, Internet, Pico
+Hardware-Ausgabe
+- Pinout, Schaltplan, OLED
+Challenge Internet
+- Zeige Programm in wokwi, Schüler sollen nachbauen, bibliothek installieren oder in lib ordner kopieren
+- schaltungen immer ohne strom/usb aufbauen, ich und julia pruefen die verkabelung
+Breadboard Schaltungen
+- Schaltplan bauen schuelerinen alleine auf, ich und julia pruefen immer vor anschluss
+Reaction Game:
+- Schaltplan bauen schuelerinen alleine auf, ich und julia pruefen immer vor anschluss
+Backup: Schaltung auf PCB uebertrage, Challenge III
+Pause
+Simon Says Hardware
+- in betriebnahme, test, geht auch via lade geraet oder akku
+Challenge II
+- Selbststaendig
+Challenge III
+- Selbststaendig
+Challenge IV
+- Have fun
